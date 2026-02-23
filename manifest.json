@@ -1,12 +1,12 @@
 {
   "name": "Checklist ya Swala",
   "short_name": "Swala",
-  "description": "Checklist ya Swala - Fuatilia swala zako za kila siku",
-  "start_url": "./index.html",
+  "description": "Programu ya Kukusaidia Kuswali kwa Utulivu na Khushuu",
+  "start_url": "/index.html",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#0a1628",
-  "theme_color": "#0a1628",
+  "background_color": "#0d1a1a",
+  "theme_color": "#c9a84c",
+  "orientation": "portrait-primary",
   "icons": [
     {
       "src": "icon-192.png",
@@ -20,5 +20,8 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "categories": ["lifestyle", "utilities"],
+  "lang": "sw",
+  "dir": "ltr"
 }
